@@ -1,7 +1,7 @@
-/*4) Escribir un programa JavaScript que calcule el promedio de 3 números. Deberá
+/* 4) Escribir un programa JavaScript que calcule el promedio de 3 números. Deberá
 guardar este programa en un archivo llamado: promedio3.js. Luego, responder
 a las siguientes preguntas utilizando su código para obtener los resultados. La
-ecuación del promedio entre 3 números está dada por:*/
+ecuación del promedio entre 3 números está dada por: */
 
 let x;
 let y;
@@ -29,3 +29,7 @@ y = 5.3;
 z = -3.3;
 promedio = (x + y + z) / 3;
 console.log('El promedio de', x, y, z, 'es', promedio);
+
+
+
+
