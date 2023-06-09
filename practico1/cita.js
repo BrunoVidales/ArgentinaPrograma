@@ -5,7 +5,7 @@ cadenas. Nos gustaría que: */
 /* a. Recuperes la longitud de la cita y la guardes en una variable llamada
 tamañoDeCita. Deberás imprimir por consola un mensaje con el
 siguiente formato: */
-let cita = "Tres tristes tigres comen trigo en un trigal"
+let cita = "Tres tristes tigres comen trigo en un trigal";
 
 let substring = "tigres comen trigo";
 
