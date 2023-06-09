@@ -28,7 +28,7 @@ let resultadoFinal = suma * resta;
 let esPar = resultadoFinal % 2 === 0;
 
 //f. Imprima por consola un mensaje con el siguiente formato:
-console.log("Mis variables iniciales fueron %i, %i, %i y %i. La respuesta a verificar si el resultado final es par es:",
+console.log("Mis variables iniciales fueron %i, %i, %i y %i. La respuesta a verificar si el resultado final es par es: %s",
 num1, num2, num3, num4, esPar);
 
 
