@@ -2,9 +2,8 @@
 
 const readlineSync = require('readline-sync');
 
-let numero = readlineSync.question("Ingresa un numero entero ");
+let numero = readlineSync.question("Ingrese un numero entero: ");
 
-numero = Number(numero);
 numero =  parseInt(numero);
 
 if(numero > 0 && numero % 2 == 0){
